@@ -1,17 +1,25 @@
 # PWR_SWR
 Here are some resources for the the Color TFT Touchscreen Power / SWR Meter project:
 
-The reference design of the project:
+Hardware:
+
+Teensy 3.2:               https://www.pjrc.com/store/teensy32.html
+Color TFT Touchscreen:    https://www.pjrc.com/store/display_ili9341_touch.html  
+
+
+Reference design:
 
 Loftur E. Jónasson - TF3LJ / VE2LJX	
 https://sites.google.com/site/lofturj/power-and-swr-meter---rev
 
-This is the site you can snag the software from.  This is the site that describes the project, it's features and it's operation. So it is the first place to start.  
+Describes the project, it's features and operation.  Reference design schematics as well as the official site to download the software source code from. Start here first.
+
 
 Support: 
+
 https://groups.io/g/RadioStuff
 
-This group is run by Johan Holstein PD0LEW who is located in Netherlands. Johan is someone good to know if you need to know the technical details about ham related electronics. RadioStuff is a good online resource for anyone thinking about building the power meter. Johan has a number of other projects that are of interest as well. In particular the RadioBerry.
+This group is run by Johan Holstein PD0LEW who is located in Netherlands. Johan is someone good to know and is very knowledgable in software and hardware. RadioStuff is a good online resource for anyone thinking about building the power meter. Johan has a number of other projects that are of interest as well. In particular the RadioBerry.
 
 What's all this KG5NII stuff anyhow?
 
