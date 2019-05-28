@@ -4,6 +4,7 @@ Here are some resources for the the Color TFT Touchscreen Power / SWR Meter proj
 Hardware:
 
 Teensy 3.2:               https://www.pjrc.com/store/teensy32.html
+
 Color TFT Touchscreen:    https://www.pjrc.com/store/display_ili9341_touch.html  
 
 
